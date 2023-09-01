@@ -4,7 +4,7 @@ My name is Andres Hung and I'm doing my Associate's Degree in IT at the Universi
 
 I like computers and drawing cartoon animals. 
 
-🎵 Current Favorite Song: [Against the Kitchen Floor](https://youtu.be/4FNUPrFqLo4)
+🎵 Current Favorite Song: [Suburbia Overture](https://youtu.be/-q5k-OS0ac0)
 
 I am currently in the web development rabbithole, learning and/or practicing the following:
 - Javascript
