@@ -14,3 +14,5 @@ I am currently in the web development rabbithole, learning and/or practicing the
 - Tailwind CSS
 
 [![wakatime](https://wakatime.com/badge/user/fd2efa3d-2cee-464a-a7da-5c1474bda290.svg)](https://wakatime.com/@fd2efa3d-2cee-464a-a7da-5c1474bda290)
+
+[![Andres's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreshungbz&layout=compact&langs_count=8&theme=nightowl)](https://wakatime.com/@andreshungbz)
