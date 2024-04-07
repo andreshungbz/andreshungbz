@@ -1,10 +1,11 @@
 # Howdy! 🦘
 
-My name is Andres Hung! I'm from Belize and I am currently doing my Associate's Degree in IT at the University of Belize. Check out the pinned repositories to find the main projects that I have worked on.
+My name is Andres Hung! I'm from Belize, and I'm currently working on my associate's degree in IT at the University of Belize. Check out the pinned repositories to find the main projects that I have worked on.
 
 ## Interesting Facts
 - 🦊 I like drawing cartoon animals
-- 🎵 My current favorite song is [Rivers Is a Vampire](https://youtu.be/g-vpodj0Tqk)
+- 🎵 Current favorite song is [Tomcat Disposables - Will Wood](https://youtu.be/zIIUejDC6xE)
+- 🎮 Current game to finish is The Legend of Zelda: Tears of The Kingdom
 
 ## Skills and Experience
 
