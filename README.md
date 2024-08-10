@@ -5,8 +5,8 @@ My name is Andres Hung! I'm from Belize, and I'm in the IT program at the Univer
 ## Interesting Tidbits
 
 - 🦊 I like drawing cartoon animals
-- 🖥️ [PC Build](https://pcpartpicker.com/b/L7LPxr) since 2024/05/16
-- 🎵 Currently Listening: [Turn To Stone](https://youtu.be/BDhJU_cNCZE?si=6GuH6tOgJlimOhrd)
+- 🖥️ [PC Build](https://pcpartpicker.com/b/L7LPxr) since May, 16, 2024
+- 🎵 Currently Listening To: [Turn To Stone](https://youtu.be/BDhJU_cNCZE?si=6GuH6tOgJlimOhrd)
 - 🎮 Game Backlog: The Legend of Zelda: Tears of The Kingdom, TUNIC
 
 ## Coding Statistics
