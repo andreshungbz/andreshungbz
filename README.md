@@ -9,4 +9,6 @@ My name is Andres Hung! I'm from Belize and currently studying in the Bachelor's
 
 ## Coding Statistics
 
-[![Andres's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=andreshungbz&layout=compact&langs_count=8)](https://wakatime.com/@andreshungbz)
+[![wakatime](https://wakatime.com/badge/user/fd2efa3d-2cee-464a-a7da-5c1474bda290.svg)](https://wakatime.com/@fd2efa3d-2cee-464a-a7da-5c1474bda290)
+
+[![Andres's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=andreshungbz&langs_count=8&layout=compact)](https://wakatime.com/@andreshungbz)
