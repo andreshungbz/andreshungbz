@@ -5,7 +5,7 @@ My name is Andres Hung! I'm from Belize and currently studying in the Bachelor's
 ## Interesting Tidbits
 
 - 🦊 I like drawing cartoon animals
-- 🎵 Currently Listening To: [(23 (acoustic-ish)](https://youtu.be/Am2Ez7-4KMw?si=ohE-KRGtKO78WUsL)
+- 🎵 Currently Listening To: [23 (acoustic-ish)](https://youtu.be/Am2Ez7-4KMw?si=ohE-KRGtKO78WUsL)
 
 ## Coding Statistics
 
