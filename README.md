@@ -1,11 +1,14 @@
 # Howdy!
 
-My name is Andres, a 3rd-year Information Technology student (Bachelor's) at the University of Belize! I enjoy drawing, coding, and writing.
+My name is Andres, a 3rd-year Information Technology student (Bachelor's - BINT) at the University of Belize! I enjoy drawing, coding, and writing.
 
 ## PGP Public Key
-- Key Server: [keys.openpgp.org](https://keys.openpgp.org/search?q=andres.hung%40outlook.com)
-- Key ID: `532A3106F50E419F`
-- Fingerprint: `17E29019CE2133F02E75ACF4532A3106F50E419F`
+
+| Key         | Value                                                                           |
+| ----------- | ------------------------------------------------------------------------------- |
+| Key Server  | [keys.openpgp.org](https://keys.openpgp.org/search?q=andres.hung%40outlook.com) |
+| Key ID      | `532A3106F50E419F`                                                              |
+| Fingerprint | `17E29019CE2133F02E75ACF4532A3106F50E419F`                                      |
 
 ## Interesting Tidbits
 
