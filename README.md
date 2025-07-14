@@ -1,16 +1,15 @@
 # Howdy!
 
-My name is Andres Hung! I'm from Belize and currently studying in the Bachelor's IT program at the University of Belize. I enjoy coding, writing, and drawing.
+My name is Andres, a 3rd-year Information Technology student (Bachelor's) at the University of Belize! I enjoy drawing, coding, and writing.
 
-## GPG Public Key
-- [keys.openpgp.org](https://keys.openpgp.org/search?q=andres.hung%40outlook.com)
+## PGP Public Key
+- Key Server: [keys.openpgp.org](https://keys.openpgp.org/search?q=andres.hung%40outlook.com)
 - Key ID: `532A3106F50E419F`
 - Fingerprint: `17E29019CE2133F02E75ACF4532A3106F50E419F`
 
 ## Interesting Tidbits
 
-- I like drawing cartoon animals
-- Currently Listening To: [23 (acoustic-ish)](https://youtu.be/Am2Ez7-4KMw?si=ohE-KRGtKO78WUsL)
+- Currently Listening To: [SOULSOUP](https://youtu.be/-H_k7iwrWVY?si=AiUyCs1a4dBIEG41) by OFFICIAL HIGE DANDISM
 
 ## Coding Statistics
 
