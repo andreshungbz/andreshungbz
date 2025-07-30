@@ -15,7 +15,7 @@ My name is Andres, a 3rd-year Information Technology student (Bachelor's - BINT)
 
 ## Interesting Tidbits
 
-- Currently Listening To: [SOULSOUP](https://youtu.be/-H_k7iwrWVY?si=AiUyCs1a4dBIEG41) by OFFICIAL HIGE DANDISM
+- Currently Listening To: [Zutto Zutto Zutto](https://youtu.be/GaSM-9V18t8?si=EI0DyxJiB7N5BzM0) by Ryokuoushoku Shakai
 
 ## Coding Statistics
 
