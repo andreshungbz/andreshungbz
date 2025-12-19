@@ -15,7 +15,7 @@ My name is Andres, a 3rd-year Information Technology student (Bachelor's - BINT)
 
 ## Interesting Tidbits
 
-- Currently Listening To: [Zutto Zutto Zutto](https://youtu.be/GaSM-9V18t8?si=EI0DyxJiB7N5BzM0) by Ryokuoushoku Shakai
+- Currently Listening To: https://youtu.be/TH--Wre3ifk?si=-a5qL9UomDpzGO0r
 
 ## Coding Statistics
 
