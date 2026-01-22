@@ -15,7 +15,7 @@ My name is Andres, a 3rd-year Information Technology student (Bachelor's - BINT)
 
 ## Interesting Tidbits
 
-- Currently Listening To: https://youtu.be/TH--Wre3ifk?si=-a5qL9UomDpzGO0r
+- Currently Listening To: [Death & Romance](https://youtu.be/_8gfVTnbBi8?si=ZUn1ToRtgBUkFdnv)
 
 ## Coding Statistics
 
