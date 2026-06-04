@@ -3,15 +3,7 @@
 ![NixOS Badge](https://img.shields.io/badge/NixOS-5856D6?style=flat&logo=nixos&logoColor=white)
 ![MacOS Badge](https://img.shields.io/badge/macOS-FF2D55?style=flat&logo=apple&logoColor=white)
 
-My name is Andres, a 3rd-year Information Technology student (Bachelor's - BINT) at the University of Belize. I enjoy drawing, coding, and writing!
-
-## PGP Public Key
-
-| Key         | Value                                                                           |
-| ----------- | ------------------------------------------------------------------------------- |
-| Key Server  | [keys.openpgp.org](https://keys.openpgp.org/search?q=andres.hung%40outlook.com) |
-| Key ID      | `532A3106F50E419F`                                                              |
-| Fingerprint | `17E29019CE2133F02E75ACF4532A3106F50E419F`                                      |
+My name is Andres, a 3rd-year Information Technology student (Bachelor's - BINT) at the University of Belize. I enjoy drawing, coding, and writing!|
 
 ## Interesting Tidbits
 
