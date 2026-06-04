@@ -1,16 +1,19 @@
 # Howdy!
 
-![NixOS Badge](https://img.shields.io/badge/NixOS-5856D6?style=flat&logo=nixos&logoColor=white)
-![MacOS Badge](https://img.shields.io/badge/macOS-FF2D55?style=flat&logo=apple&logoColor=white)
+Welcome to my profile! Repositories include personal projects, school projects, and other miscellaneous things. It's basically a repretoire of my coding journey.
 
-My name is Andres, a 3rd-year Information Technology student (Bachelor's - BINT) at the University of Belize. I enjoy drawing, coding, and writing!|
+## Shenanigans
 
-## Interesting Tidbits
+- Daily driving ![NixOS Badge](https://img.shields.io/badge/NixOS-5856D6?style=flat&logo=nixos&logoColor=white) and
+  ![MacOS Badge](https://img.shields.io/badge/macOS-FF2D55?style=flat&logo=apple&logoColor=white), and occasionally using ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) if necessary.
+- Drawing and posting an art once every million blue moons on [Instagram](https://www.instagram.com/packetroo.art/).
+- Recently listening to [This Is The World](https://youtu.be/443NT3fDq7U) by Magdalena Bay.
+- 4th-year Bachelor's student in Information Technology at the University of Belize.
 
-- Currently Listening To: [Death & Romance](https://youtu.be/_8gfVTnbBi8?si=ZUn1ToRtgBUkFdnv)
+## Coding Stats
 
-## Coding Statistics
-
-[![wakatime](https://wakatime.com/badge/user/fd2efa3d-2cee-464a-a7da-5c1474bda290.svg)](https://wakatime.com/@fd2efa3d-2cee-464a-a7da-5c1474bda290)
+I started learning how to code around September 2022! Recording coding statistics since June 2023.
 
 [![Andres's Wakatime stats](https://github-readme-stats-ah.vercel.app/api/wakatime?username=andreshungbz&layout=compact&theme=github_dark&langs_count=8)](https://wakatime.com/@andreshungbz)
+
+[![wakatime](https://wakatime.com/badge/user/fd2efa3d-2cee-464a-a7da-5c1474bda290.svg)](https://wakatime.com/@fd2efa3d-2cee-464a-a7da-5c1474bda290)
