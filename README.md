@@ -1,6 +1,6 @@
 # Howdy!
 
-Welcome to my profile! Repositories include personal projects, school projects, and other miscellaneous things. It's basically a repretoire of my coding journey.
+Welcome to my profile! Repositories include personal projects, school projects, and other miscellaneous things. It's basically a repretoire of my coding journey. Contact links are in the sidebar, and you can also reach me via [Matrix](https://matrix.org/) `@packetroo:matrix.org`.
 
 ## Shenanigans
 
