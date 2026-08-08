@@ -8,6 +8,7 @@ Welcome to my profile! Repositories include personal projects, school projects, 
   ![MacOS Badge](https://img.shields.io/badge/macOS-FF2D55?style=flat&logo=apple&logoColor=white), and occasionally using ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) if necessary.
 - Drawing and posting an art once every million blue moons on [Instagram](https://www.instagram.com/packetroo.art/).
 - Recently listening to [This Is The World](https://youtu.be/443NT3fDq7U) by Magdalena Bay.
+- Recently playing [Cobalt Core](https://store.steampowered.com/app/2179850/Cobalt_Core/).
 - 4th-year Bachelor's student in Information Technology at the University of Belize.
 
 ## Coding Stats
